@@ -45,27 +45,27 @@ Con referencia al año 2019,en el 2021 los delitos aumentaron aproximadamente 20
 
 <img src="https://github.com/DavidSTorres/Delitos-de-Alto-Impacto-en-Bogota-2020-2022/blob/main/Graficas/Tipo%20de%20delito.png">
 
-<img src="Delito % total de hechos.png">
+<img src="https://github.com/DavidSTorres/Delitos-de-Alto-Impacto-en-Bogota-2020-2022/blob/main/Graficas/Delito%20%25%20total%20de%20hechos.png">
 <br />
 Los deltios más recurrentes fueron el Hurto a Personas y el Hurto a celulares
 <br />
 
 
-<img src="Delito por mes.png">
+<img src="https://github.com/DavidSTorres/Delitos-de-Alto-Impacto-en-Bogota-2020-2022/blob/main/Graficas/Delito%20por%20mes.png">
 
 
 
 ### Hurto a personas 
 
-<img src="HurtoP 2020.jpg">
+<img src="https://github.com/DavidSTorres/Delitos-de-Alto-Impacto-en-Bogota-2020-2022/blob/main/Mapas/HurtoP%202020.jpg">
 
-<img src="HurtoP 2021.jpg">
+<img src="https://github.com/DavidSTorres/Delitos-de-Alto-Impacto-en-Bogota-2020-2022/blob/main/Mapas/HurtoP%202021.jpg">
 <br />
 Las localidades más afectadas fueron Engativá,Kennedy,Suba y Chapinero
 <br />
-<img src="Modalidad.png">
+<img src="https://github.com/DavidSTorres/Delitos-de-Alto-Impacto-en-Bogota-2020-2022/blob/main/Graficas/Modalidad.png">
 <br />
 El atraco fue la modalidad más común
 
 
-<img src="Tipo de delito.png">
+
