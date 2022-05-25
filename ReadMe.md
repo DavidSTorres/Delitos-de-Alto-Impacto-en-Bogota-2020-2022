@@ -7,7 +7,7 @@ Proyecto Final
 <br />
 <img src="Deliots bogota 2018-2022.png">
 <br />
-
+<img src="https://github.com/DavidSTorres/Delitos-de-Alto-Impacto-en-Bogota-2020-2022/blob/main/Graficas/Deliots%20bogota%202018-2022.png">
 ## Descripción y Motivación
 
 Actualmente la ciudad de Bogotá sufre uno de sus momentos más críticos en temas de seguridad. Según los últimos resultados presentados  de la encuesta de percepción y victimización de la Cámara de Comercio 2021) ,el 88% de los ciudadanos considera que la capital del país es insegura. Para este proyecto he decidido analizar el comportamiento de los delitos de alto impacto en Bogotá durante los últimos años, haciendo foco principal en el periodo de la Alcaldía  de Claudia López .
