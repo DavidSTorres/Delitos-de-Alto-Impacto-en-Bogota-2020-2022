@@ -5,7 +5,7 @@ Clase de Metodos Computacionales para Politicas Publicas
 Proyecto Final
 
 <br />
-<img src="Deliots bogota 2018-2022.png">
+
 <br />
 <img src="https://github.com/DavidSTorres/Delitos-de-Alto-Impacto-en-Bogota-2020-2022/blob/main/Graficas/Deliots%20bogota%202018-2022.png">
 ## Descripción y Motivación
@@ -43,7 +43,7 @@ Con referencia al año 2019,en el 2021 los delitos aumentaron aproximadamente 20
 <br />
 <br />
 
-<img src="Tipo de delito.png">
+<img src="[Tipo de delito.png](https://github.com/DavidSTorres/Delitos-de-Alto-Impacto-en-Bogota-2020-2022/blob/main/Graficas/Tipo%20de%20delito.png)">
 
 <img src="Delito % total de hechos.png">
 <br />
