@@ -44,7 +44,7 @@ Con referencia al año 2019,en el 2021 los delitos aumentaron aproximadamente 20
 <br />
 
 <img src="Tipo de delito.png">
-
+![Tipo De Delito](Tipo de delito.png)
 <img src="Delito % total de hechos.png">
 <br />
 Los deltios más recurrentes fueron el Hurto a Personas y el Hurto a celulares
