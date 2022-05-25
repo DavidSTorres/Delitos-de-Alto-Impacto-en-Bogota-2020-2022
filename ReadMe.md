@@ -63,6 +63,7 @@ Los deltios más recurrentes fueron el Hurto a Personas y el Hurto a celulares
 <br />
 Las localidades más afectadas fueron Engativá,Kennedy,Suba y Chapinero
 <br />
+<br />
 <img src="https://github.com/DavidSTorres/Delitos-de-Alto-Impacto-en-Bogota-2020-2022/blob/main/Graficas/Modalidad.png">
 <br />
 El atraco fue la modalidad más común
